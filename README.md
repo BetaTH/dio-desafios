@@ -1,2 +1,3 @@
-# dio-desafios
-Repositório pra enviar os desafios da DIO
+# REPOSITÓRIO PARA ENVIAR OS DESAFIOS DE PROJETOS DA DIO
+ - 1 Desafio de Projeto: Git/GitHub
+
