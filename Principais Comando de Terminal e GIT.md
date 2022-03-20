@@ -3,8 +3,9 @@
 #### TERMINAL WINDOWNS / Unix
 * cd (Windows / Unix)
 
-    - **cd..**  volta ao diretório anterior;
-    - **cd** seguido de \ volta ao diretório raiz;
+    - **cd ..** volta ao diretório anterior;
+    - **cd /** volta ao diretório raiz;
+    - **cd ~** volta ao diretório pessoal na (Unix);
     - **cd** seguido do **nome do diretório** navega ao diretório apontado se ele estiver contido no diretório atual.
     - **cd** seguido do **caminho do diretório** navega ao diretório apontado se ele estiver contido no diretório atual.
 * dir (Windows) - ls (Unix)
