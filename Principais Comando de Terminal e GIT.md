@@ -24,3 +24,10 @@
 * echo
     
     Retorna o que for como um texto escrito depois. Pode ser acompanhado do operador ">" para atribuir o texto retornado a um arquivo, que deve ser indicado após o operador.
+* man (Unix)
+
+    Retorna o manual de um comando no linux, para isso é necessário digitar o comando após "man".
+
+* pwd (Windows / Unix)
+
+    Retorna o comaniho do diretório atual.
